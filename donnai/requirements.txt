@@ -1,0 +1,13 @@
+openai
+plyer
+pytesseract
+Pillow
+pyautogui
+Node.js
+NPM
+Wine
+electron
+Django
+djangorestframework
+mysql-connector-python
+requests

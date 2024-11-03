@@ -1,0 +1,17 @@
+{
+    "name": "donnaai",
+    "version": "1.0.0",
+    "description": "Consolidates all the events from different platform (Gmail, Outlook, Discord, Slack, Linkdein, etc) into one comprehensive calendar and add events in real time with AI Text Detection.",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "electron": "^25.0.0",
+      "axios": "^1.0.0"
+    },
+    "devDependencies": {
+      "electron-reload": "^1.5.0"
+    }
+  }
+  

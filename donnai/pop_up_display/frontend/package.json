@@ -1,0 +1,16 @@
+{
+    "name": "popup-display",
+    "version": "1.0.0",
+    "description": "Electron app to track text and show event pop-ups",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "dependencies": {
+      "electron": "^24.0.0"
+    },
+    "devDependencies": {},
+    "author": "",
+    "license": "ISC"
+  }
+  
