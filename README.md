@@ -8,7 +8,7 @@ DonnaAI is an innovative AI-powered planning tool designed to streamline the pro
 ## Getting started
 To download the application, visit the (https://github.com/PreeteshShah/Donna_AI_v1) page and download the latest verison of the application!
 
-## License\
+## License
 Licensed under the MIT License (https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgements
