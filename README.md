@@ -1,4 +1,4 @@
-***V1 Source Code for Donna AI (2024 Buildillinois/Sigaida Hackathon)***
+***V1 Source Code for DonnaAI (2024 Buildillinois/Sigaida Hackathon)***
 # DonnaAI
 <img src="resources/icon.png" alt="google-calendar-icon" width="64" height="64" align="right" hspace="0" vspace="3"/>
 
